@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![WEBCHILAR](https://www.pexels.com/ru-ru/photo/10583179/)
- <!-- Replace with your own banner image URL -->
 
 I'm a **Frontend Developer** specializing in **Vue.js**! I enjoy building responsive and dynamic web applications and am passionate about crafting clean, efficient code.
 
