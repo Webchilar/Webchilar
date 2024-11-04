@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![WEBCHILAR](https://github.com/your-username/your-repo-name/blob/main/banner.png)
+![WEBCHILAR](https://github.com/Webchilar/banner_imagea)
  <!-- Replace with your own banner image URL -->
 
 I'm a **Frontend Developer** specializing in **Vue.js**! I enjoy building responsive and dynamic web applications and am passionate about crafting clean, efficient code.
