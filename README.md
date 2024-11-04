@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Webchilar/Webchilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** specializing in **Vue.js**! I enjoy building responsive and dynamic web applications and am passionate about crafting clean, efficient code.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on projects that showcase my skills in Vue.js, JavaScript, and frontend design.
+- 🌱 I’m currently learning advanced Vue Composition API techniques, as well as exploring new libraries to improve user interfaces.
+- 👯 I’m looking to collaborate on interesting frontend projects, especially those that involve modern UI/UX design.
+- 🤔 I’m looking for help with integrating backend features seamlessly into frontend applications.
+- 💬 Ask me about anything related to Vue.js, JavaScript, CSS, and frontend best practices!
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/webchilar-mz-b9b242335) or email me at yourname@email.com.
+- 😄 Pronouns: He/She/They
+- ⚡ Fun fact: I'm a big fan of cyber-style themes and love experimenting with CSS animations to bring pages to life!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! 😊
