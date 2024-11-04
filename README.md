@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Banner](https://example.com/banner-image.jpg) <!-- Replace with your own banner image URL -->
+![WEBCHILAR](https://www.canva.com/design/DAGVgY61b0s/pNwCSBUwR3Gej_XdY_PgDQ) <!-- Replace with your own banner image URL -->
 
 I'm a **Frontend Developer** specializing in **Vue.js**! I enjoy building responsive and dynamic web applications and am passionate about crafting clean, efficient code.
 
